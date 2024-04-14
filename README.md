@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+<img width="760" alt="Screenshot 2024-04-14 at 12 12 38" src="https://github.com/darrylad/fitness/assets/132708308/65817cdb-0ee4-4e56-b3c5-a43bfeb19c91">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
